@@ -1,0 +1,20 @@
+baseURL = 'https://blog.riyoth.ca/'
+languageCode = 'en-us'
+title = "Riyoth's Blog"
+theme = 'hugo-kiera'
+
+pygmentsCodeFences = true
+
+disqusShortname = "" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "Pier-Olivier Clement"           #Author name
+    github = "riyoth"         #Github username
+    linkedin = "poclement"       #LinkedIn username
+
+[params]
+    tagline = "What I'm working on"
+    customCSS = []  #Optional Customised CSS
+    disableDarkModeCSS = true # disables css style for users using dark-mode
+
